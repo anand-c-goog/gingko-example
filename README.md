@@ -3,7 +3,10 @@ Example of writing a test with Ginkgo
 https://github.com/onsi/ginkgo
 
 
-Start with cloning this repo:  git clone https://github.com/anand-c-goog/gingko-example.git
+Start with cloning this repo:  
+```
+git clone https://github.com/anand-c-goog/gingko-example.git
+```
 
 Create a new app, or use the existing utils package, under gingko-example/utils.
 
