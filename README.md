@@ -4,8 +4,12 @@ https://github.com/onsi/ginkgo
 
 
 Start with cloning this repo:  git clone https://github.com/anand-c-goog/gingko-example.git
-Create a new app, or use the existing utils package.
-Use with the steps outlined here: http://onsi.github.io/ginkgo/ Any time they reference path/to/my/app or the books app (which does not exist!), replace with your new app or with gingko-example/utils.
+
+Create a new app, or use the existing utils package, under gingko-example/utils.
+
+Use with the steps outlined here: http://onsi.github.io/ginkgo/ 
+
+Any time the above doc references path/to/my/app or the books app (which does not exist!), replace with your new app or with gingko-example/utils.
 
 # Running the existing sample test
 cd gingko-example/utils
@@ -14,7 +18,9 @@ ginkgo
 ## Sample output
 
 Running Suite: Utils Suite
+
 ==========================
+
 Random Seed: 1535674623
 Will run 2 of 2 specs
 
