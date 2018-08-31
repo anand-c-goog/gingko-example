@@ -12,8 +12,10 @@ Use with the steps outlined here: http://onsi.github.io/ginkgo/
 Any time the above doc references path/to/my/app or the books app (which does not exist!), replace with your new app or with gingko-example/utils.
 
 # Running the existing sample test
+```
 cd gingko-example/utils
 ginkgo
+```
 
 ## Sample output
 
